@@ -1,6 +1,6 @@
-package dto;
+package tp4MancusoAugusto.src.main.java.com.programacion2.dto;
 
-import exceptions.VidaUtilInsuficienteException;
+import tp4MancusoAugusto.src.main.java.com.programacion2.exceptions.VidaUtilInsuficienteException;
 
 public class Utensillo  implements Reutilizable, Despensable {
     private int vidaUtil;

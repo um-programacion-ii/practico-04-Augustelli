@@ -1,7 +1,7 @@
-package dto;
+package tp4MancusoAugusto.src.main.java.com.programacion2.dto;
 
-import exceptions.StockInsuficienteException;
-import exceptions.VidaUtilInsuficienteException;
+import tp4MancusoAugusto.src.main.java.com.programacion2.exceptions.StockInsuficienteException;
+import tp4MancusoAugusto.src.main.java.com.programacion2.exceptions.VidaUtilInsuficienteException;
 
 import java.util.List;
 

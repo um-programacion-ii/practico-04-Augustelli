@@ -1,8 +1,9 @@
-package service;
+package tp4MancusoAugusto.src.main.java.com.programacion2.service;
 
-import dto.*;
-import exceptions.VidaUtilInsuficienteException;
-
+import tp4MancusoAugusto.src.main.java.com.programacion2.dto.Chef;
+import tp4MancusoAugusto.src.main.java.com.programacion2.dto.Cocinable;
+import tp4MancusoAugusto.src.main.java.com.programacion2.dto.Utensillo;
+import tp4MancusoAugusto.src.main.java.com.programacion2.exceptions.VidaUtilInsuficienteException;
 
 import java.util.List;
 import java.util.concurrent.ExecutorService;

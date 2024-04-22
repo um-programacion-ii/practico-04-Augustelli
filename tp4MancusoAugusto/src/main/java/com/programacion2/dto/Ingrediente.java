@@ -1,6 +1,6 @@
-package dto;
+package tp4MancusoAugusto.src.main.java.com.programacion2.dto;
 
-import exceptions.StockInsuficienteException;
+import tp4MancusoAugusto.src.main.java.com.programacion2.exceptions.StockInsuficienteException;
 
 public class Ingrediente implements Despensable {
 
